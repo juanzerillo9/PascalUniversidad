@@ -1,0 +1,4 @@
+Manteca			12 	200
+leche			20 	180
+cafe			1  	800	
+factura			29 	70	
